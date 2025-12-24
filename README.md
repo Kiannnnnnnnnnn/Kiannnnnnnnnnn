@@ -4,6 +4,7 @@ This GitHub page is dedicated to presenting my personal projects that focus on d
 
 I currently work on the following projects:
 
+- Analytics Academy; Data Insights for Studiezalen
 - Data Science & Analytics for Verse (DSAV)
 - Prometheus Capital Quant Competition
 - RvB Stadium Game Dashboard
