@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This GitHub page is dedicated to presenting my personal projects that focus on data science and machine learning. Please feel free to reach out for any inquiries!
+This GitHub page is dedicated to presenting my personal projects that focus on data science, trading algorithms and machine learning. Please feel free to reach out for any inquiries!
 <!--
 **Kiannnnnnnnnnn/Kiannnnnnnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
