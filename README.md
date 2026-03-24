@@ -2,12 +2,11 @@
 
 This GitHub page is dedicated to presenting my personal projects that focus on data science, trading algorithms and machine learning. Please feel free to reach out for any inquiries!
 
-I currently work on the following projects:
+In the past, I worked on the following projects:
 
-- Analytics Academy; Data Insights for Studiezalen
+- Creating Data Insights for Studiezalen
 - Data Science & Analytics for Verse (DSAV)
 - Prometheus Capital Quant Competition
-- RvB Stadium Game Dashboard
 
 <!--
 **Kiannnnnnnnnnn/Kiannnnnnnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
